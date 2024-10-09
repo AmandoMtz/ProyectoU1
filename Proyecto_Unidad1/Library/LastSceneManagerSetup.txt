@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Proyecto_Unidad1/Conversacion3.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
